@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../../jspm_packages/npm/core-js@1.2.7/library/fn/node-list.js"],"names":["module","exports","require"],"mappings":";;AAAA;AACAA,OAAOC,OAAP,GAAiBC,QAAQ,mBAAR,CAAjB","file":"node-list.js","sourcesContent":["/* */ \nmodule.exports = require('./node-list/index');\n"]}

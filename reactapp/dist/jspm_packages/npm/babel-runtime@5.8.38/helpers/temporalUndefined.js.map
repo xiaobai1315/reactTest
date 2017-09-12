@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../jspm_packages/npm/babel-runtime@5.8.38/helpers/temporalUndefined.js"],"names":["exports","__esModule","default"],"mappings":"AAAA;AACA;;AAEAA,QAAQC,UAAR,GAAqB,IAArB;AACAD,QAAQE,OAAR,GAAkB,EAAlB","file":"temporalUndefined.js","sourcesContent":["/* */ \n\"use strict\";\n\nexports.__esModule = true;\nexports.default = {};"]}

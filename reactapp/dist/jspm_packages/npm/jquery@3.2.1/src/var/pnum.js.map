@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../../jspm_packages/npm/jquery@3.2.1/src/var/pnum.js"],"names":["define","source"],"mappings":";;AAAA;AACAA,OAAQ,YAAW;AAClB;;AAEA,QAAS,sCAAF,CAA0CC;AAAjD;AACA,CAJD","file":"pnum.js","sourcesContent":["/* */ \ndefine( function() {\n\t\"use strict\";\n\n\treturn ( /[+-]?(?:\\d*\\.|)\\d+(?:[eE][+-]?\\d+|)/ ).source;\n} );\n"]}

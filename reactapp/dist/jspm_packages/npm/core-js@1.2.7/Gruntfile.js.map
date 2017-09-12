@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../jspm_packages/npm/core-js@1.2.7/Gruntfile.js"],"names":["require","module","exports"],"mappings":";;AAAA;AACAA,QAAQ,YAAR;AACAC,OAAOC,OAAP,GAAiBF,QAAQ,mBAAR,CAAjB","file":"Gruntfile.js","sourcesContent":["/* */ \nrequire('LiveScript');\nmodule.exports = require('./build/Gruntfile');"]}

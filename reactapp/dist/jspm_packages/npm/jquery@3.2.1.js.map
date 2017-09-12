@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../jspm_packages/npm/jquery@3.2.1.js"],"names":["define","main"],"mappings":";;AAAAA,OAAO,CAAC,iCAAD,CAAP,EAA4C,UAASC,IAAT,EAAe;AACzD,SAAOA,IAAP;AACD,CAFD","file":"jquery@3.2.1.js","sourcesContent":["define([\"npm:jquery@3.2.1/dist/jquery.js\"], function(main) {\n  return main;\n});"]}

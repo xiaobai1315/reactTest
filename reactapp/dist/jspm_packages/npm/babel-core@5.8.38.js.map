@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../jspm_packages/npm/babel-core@5.8.38.js"],"names":["module","exports","require"],"mappings":";;AAAAA,OAAOC,OAAP,GAAiBC,QAAQ,kCAAR,CAAjB","file":"babel-core@5.8.38.js","sourcesContent":["module.exports = require(\"npm:babel-core@5.8.38/browser.js\");"]}

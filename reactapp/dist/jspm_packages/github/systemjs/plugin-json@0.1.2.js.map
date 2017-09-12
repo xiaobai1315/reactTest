@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../jspm_packages/github/systemjs/plugin-json@0.1.2.js"],"names":["define","main"],"mappings":";;AAAAA,OAAO,CAAC,wCAAD,CAAP,EAAmD,UAASC,IAAT,EAAe;AAChE,SAAOA,IAAP;AACD,CAFD","file":"plugin-json@0.1.2.js","sourcesContent":["define([\"github:systemjs/plugin-json@0.1.2/json\"], function(main) {\n  return main;\n});"]}

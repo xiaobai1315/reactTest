@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../../jspm_packages/npm/core-js@1.2.7/library/web/dom.js"],"names":["require","module","exports"],"mappings":";;AAAA;AACAA,QAAQ,6BAAR;AACAC,OAAOC,OAAP,GAAiBF,QAAQ,mBAAR,CAAjB","file":"dom.js","sourcesContent":["/* */ \nrequire('../modules/web.dom.iterable');\nmodule.exports = require('../modules/$.core');\n"]}

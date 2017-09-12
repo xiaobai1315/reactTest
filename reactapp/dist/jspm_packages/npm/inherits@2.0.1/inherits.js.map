@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../jspm_packages/npm/inherits@2.0.1/inherits.js"],"names":["module","exports","require","inherits"],"mappings":";;AAAA;AACAA,OAAOC,OAAP,GAAiBC,QAAQ,MAAR,EAAgBC,QAAjC","file":"inherits.js","sourcesContent":["/* */ \nmodule.exports = require('util').inherits;\n"]}

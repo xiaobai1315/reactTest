@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../../../jspm_packages/npm/jquery@3.2.1/src/ajax/var/rquery.js"],"names":["define"],"mappings":";;AAAA;AACAA,OAAQ,YAAW;AAClB;;AAEA,QAAS;AAAT;AACA,CAJD","file":"rquery.js","sourcesContent":["/* */ \ndefine( function() {\n\t\"use strict\";\n\n\treturn ( /\\?/ );\n} );\n"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../../jspm_packages/npm/core-js@1.2.7/library/es7/regexp.js"],"names":["require","module","exports","RegExp"],"mappings":";;AAAA;AACAA,QAAQ,8BAAR;AACAC,OAAOC,OAAP,GAAiBF,QAAQ,mBAAR,EAA6BG,MAA9C","file":"regexp.js","sourcesContent":["/* */ \nrequire('../modules/es7.regexp.escape');\nmodule.exports = require('../modules/$.core').RegExp;\n"]}

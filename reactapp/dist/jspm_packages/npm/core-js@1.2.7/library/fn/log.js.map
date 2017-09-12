@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../../jspm_packages/npm/core-js@1.2.7/library/fn/log.js"],"names":["require","module","exports","log"],"mappings":";;AAAA;AACAA,QAAQ,qBAAR;AACAC,OAAOC,OAAP,GAAiBF,QAAQ,mBAAR,EAA6BG,GAA9C","file":"log.js","sourcesContent":["/* */ \nrequire('../modules/core.log');\nmodule.exports = require('../modules/$.core').log;\n"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../jspm_packages/npm/babel-runtime@5.8.38/helpers/_tagged-template-literal-loose.js"],"names":["module","exports","require"],"mappings":";;AAAA;AACAA,OAAOC,OAAP,GAAiBC,QAAQ,8BAAR,CAAjB","file":"_tagged-template-literal-loose.js","sourcesContent":["/* */ \nmodule.exports = require('./taggedTemplateLiteralLoose');\n"]}

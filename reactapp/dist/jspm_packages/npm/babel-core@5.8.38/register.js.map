@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../jspm_packages/npm/babel-core@5.8.38/register.js"],"names":["module","exports","require"],"mappings":";AAAA;AACA;;AACAA,OAAOC,OAAP,GAAiBC,QAAQ,kCAAR,CAAjB","file":"register.js","sourcesContent":["/* */ \n\"format cjs\";\nmodule.exports = require(\"./lib/api/register/node-polyfill\");\n"]}

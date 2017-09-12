@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../jspm_packages/npm/core-js@1.2.7/web/immediate.js"],"names":["require","module","exports"],"mappings":";;AAAA;AACAA,QAAQ,0BAAR;AACAC,OAAOC,OAAP,GAAiBF,QAAQ,mBAAR,CAAjB","file":"immediate.js","sourcesContent":["/* */ \nrequire('../modules/web.immediate');\nmodule.exports = require('../modules/$.core');\n"]}

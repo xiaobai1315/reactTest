@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../jspm_packages/npm/process@0.11.10.js"],"names":["module","exports","require"],"mappings":";;AAAAA,OAAOC,OAAP,GAAiBC,QAAQ,gCAAR,CAAjB","file":"process@0.11.10.js","sourcesContent":["module.exports = require(\"npm:process@0.11.10/browser.js\");"]}

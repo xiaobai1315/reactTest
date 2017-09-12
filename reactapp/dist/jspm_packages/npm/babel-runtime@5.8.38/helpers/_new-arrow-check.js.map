@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../jspm_packages/npm/babel-runtime@5.8.38/helpers/_new-arrow-check.js"],"names":["module","exports","require"],"mappings":";;AAAA;AACAA,OAAOC,OAAP,GAAiBC,QAAQ,iBAAR,CAAjB","file":"_new-arrow-check.js","sourcesContent":["/* */ \nmodule.exports = require('./newArrowCheck');\n"]}

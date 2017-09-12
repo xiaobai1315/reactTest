@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../jspm_packages/npm/core-js@1.2.7/web.js"],"names":["module","exports","require"],"mappings":";;AAAA;AACAA,OAAOC,OAAP,GAAiBC,QAAQ,aAAR,CAAjB","file":"web.js","sourcesContent":["/* */ \nmodule.exports = require('./web/index');\n"]}

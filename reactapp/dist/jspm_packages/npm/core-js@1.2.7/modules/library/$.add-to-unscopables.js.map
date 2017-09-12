@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../../jspm_packages/npm/core-js@1.2.7/modules/library/$.add-to-unscopables.js"],"names":["module","exports"],"mappings":";;AAAA;AACAA,OAAOC,OAAP,GAAiB,YAAU,CAAE,WAAa,CAA1C","file":"$.add-to-unscopables.js","sourcesContent":["/* */ \nmodule.exports = function(){ /* empty */ };"]}

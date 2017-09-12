@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../jspm_packages/npm/babel-runtime@5.8.38/core-js.js"],"names":["module","exports","require","__esModule"],"mappings":";;AAAA;AACAA,OAAOC,OAAP,GAAiB;AACf,aAAWC,QAAQ,iBAAR,CADI;AAEfC,cAAY;AAFG,CAAjB","file":"core-js.js","sourcesContent":["/* */ \nmodule.exports = {\n  \"default\": require(\"core-js/library\"),\n  __esModule: true\n};\n"]}

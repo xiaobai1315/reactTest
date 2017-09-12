@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../../jspm_packages/npm/core-js@1.2.7/library/modules/es6.array.species.js"],"names":["require"],"mappings":";;AAAA;AACAA,QAAQ,iBAAR,EAA2B,OAA3B","file":"es6.array.species.js","sourcesContent":["/* */ \nrequire('./$.set-species')('Array');\n"]}

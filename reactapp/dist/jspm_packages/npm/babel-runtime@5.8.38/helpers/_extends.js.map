@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../jspm_packages/npm/babel-runtime@5.8.38/helpers/_extends.js"],"names":["module","exports","require"],"mappings":";;AAAA;AACAA,OAAOC,OAAP,GAAiBC,QAAQ,WAAR,CAAjB","file":"_extends.js","sourcesContent":["/* */ \nmodule.exports = require('./extends');\n"]}

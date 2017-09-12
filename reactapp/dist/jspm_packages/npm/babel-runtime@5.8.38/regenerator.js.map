@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../jspm_packages/npm/babel-runtime@5.8.38/regenerator.js"],"names":["module","exports","require"],"mappings":";;AAAA;AACAA,OAAOC,OAAP,GAAiBC,QAAQ,qBAAR,CAAjB","file":"regenerator.js","sourcesContent":["/* */ \nmodule.exports = require('./regenerator/index');\n"]}

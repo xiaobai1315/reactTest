@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../jspm_packages/npm/babel-runtime@5.8.38/helpers/_class-call-check.js"],"names":["module","exports","require"],"mappings":";;AAAA;AACAA,OAAOC,OAAP,GAAiBC,QAAQ,kBAAR,CAAjB","file":"_class-call-check.js","sourcesContent":["/* */ \nmodule.exports = require('./classCallCheck');\n"]}

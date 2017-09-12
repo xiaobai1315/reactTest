@@ -1,13 +1,22 @@
 
 import React from 'react';
-import CommentNode from './commentNode';
+import CommentNode from './CommentNode';
 
 export default class CommentList extends React.Component{
     render(){
+
+        let comments = this.props.data.map(comment =>{
+            return (
+                <CommentNode auther={comment.auther} data={comment.data}>
+                    {comment.text}
+                </CommentNode>
+            );
+        });
+
         return(
             <div className={"ui commentForm"}>
-                <CommentNode auther={'xiaobai'} data={'1分钟'}>你好</CommentNode>
-                <CommentNode auther={'xiaohong'} data={'2分钟'}>你好</CommentNode>
+                {comments}
+                {/*<CommentNode auther={comments}></CommentNode>*/}
             </div>
         )
     }

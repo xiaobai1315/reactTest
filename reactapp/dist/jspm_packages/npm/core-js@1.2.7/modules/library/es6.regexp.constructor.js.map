@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../../jspm_packages/npm/core-js@1.2.7/modules/library/es6.regexp.constructor.js"],"names":["require"],"mappings":";;AAAA;AACAA,QAAQ,iBAAR,EAA2B,QAA3B","file":"es6.regexp.constructor.js","sourcesContent":["/* */ \nrequire('./$.set-species')('RegExp');\n"]}

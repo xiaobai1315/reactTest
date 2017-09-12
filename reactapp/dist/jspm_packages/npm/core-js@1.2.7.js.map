@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../jspm_packages/npm/core-js@1.2.7.js"],"names":["module","exports","require"],"mappings":";;AAAAA,OAAOC,OAAP,GAAiBC,QAAQ,4BAAR,CAAjB","file":"core-js@1.2.7.js","sourcesContent":["module.exports = require(\"npm:core-js@1.2.7/index.js\");"]}

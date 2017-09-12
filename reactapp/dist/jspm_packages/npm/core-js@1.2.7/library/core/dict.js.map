@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../../jspm_packages/npm/core-js@1.2.7/library/core/dict.js"],"names":["require","module","exports","Dict"],"mappings":";;AAAA;AACAA,QAAQ,sBAAR;AACAC,OAAOC,OAAP,GAAiBF,QAAQ,mBAAR,EAA6BG,IAA9C","file":"dict.js","sourcesContent":["/* */ \nrequire('../modules/core.dict');\nmodule.exports = require('../modules/$.core').Dict;\n"]}

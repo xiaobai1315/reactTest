@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../../jspm_packages/npm/core-js@1.2.7/library/js/array.js"],"names":["require","module","exports","Array"],"mappings":";;AAAA;AACAA,QAAQ,6BAAR;AACAC,OAAOC,OAAP,GAAiBF,QAAQ,mBAAR,EAA6BG,KAA9C","file":"array.js","sourcesContent":["/* */ \nrequire('../modules/js.array.statics');\nmodule.exports = require('../modules/$.core').Array;\n"]}

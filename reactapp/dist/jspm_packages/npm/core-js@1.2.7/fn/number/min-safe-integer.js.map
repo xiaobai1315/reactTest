@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../../jspm_packages/npm/core-js@1.2.7/fn/number/min-safe-integer.js"],"names":["require","module","exports"],"mappings":";;AAAA;AACAA,QAAQ,2CAAR;AACAC,OAAOC,OAAP,GAAiB,CAAC,gBAAlB","file":"min-safe-integer.js","sourcesContent":["/* */ \nrequire('../../modules/es6.number.min-safe-integer');\nmodule.exports = -0x1fffffffffffff;\n"]}

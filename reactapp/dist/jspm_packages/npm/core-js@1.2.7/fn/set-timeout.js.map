@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../jspm_packages/npm/core-js@1.2.7/fn/set-timeout.js"],"names":["require","module","exports","setTimeout"],"mappings":";;AAAA;AACAA,QAAQ,uBAAR;AACAC,OAAOC,OAAP,GAAiBF,QAAQ,mBAAR,EAA6BG,UAA9C","file":"set-timeout.js","sourcesContent":["/* */ \nrequire('../modules/web.timers');\nmodule.exports = require('../modules/$.core').setTimeout;\n"]}

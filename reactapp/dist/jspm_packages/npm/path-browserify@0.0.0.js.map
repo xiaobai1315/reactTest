@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../jspm_packages/npm/path-browserify@0.0.0.js"],"names":["module","exports","require"],"mappings":";;AAAAA,OAAOC,OAAP,GAAiBC,QAAQ,oCAAR,CAAjB","file":"path-browserify@0.0.0.js","sourcesContent":["module.exports = require(\"npm:path-browserify@0.0.0/index.js\");"]}

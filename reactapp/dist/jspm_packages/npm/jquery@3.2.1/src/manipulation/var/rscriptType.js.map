@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../../../jspm_packages/npm/jquery@3.2.1/src/manipulation/var/rscriptType.js"],"names":["define"],"mappings":";;AAAA;AACAA,OAAQ,YAAW;AAClB;;AAEA,QAAS;AAAT;AACA,CAJD","file":"rscriptType.js","sourcesContent":["/* */ \ndefine( function() {\n\t\"use strict\";\n\n\treturn ( /^$|\\/(?:java|ecma)script/i );\n} );\n"]}

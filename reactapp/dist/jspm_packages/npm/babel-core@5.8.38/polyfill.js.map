@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../jspm_packages/npm/babel-core@5.8.38/polyfill.js"],"names":["module","exports","require"],"mappings":";AAAA;AACA;;AACAA,OAAOC,OAAP,GAAiBC,QAAQ,gBAAR,CAAjB","file":"polyfill.js","sourcesContent":["/* */ \n\"format cjs\";\nmodule.exports = require(\"./lib/polyfill\");\n"]}

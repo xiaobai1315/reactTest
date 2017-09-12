@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../jspm_packages/npm/process@0.11.10/index.js"],"names":["module","exports","global","process"],"mappings":";;AAAA;AACAA,OAAOC,OAAP,GAAiBC,OAAOC,OAAxB","file":"index.js","sourcesContent":["// for now just expose the builtin process global from node.js\nmodule.exports = global.process;\n"]}

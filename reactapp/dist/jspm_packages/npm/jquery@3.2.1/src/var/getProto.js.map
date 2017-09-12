@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../../jspm_packages/npm/jquery@3.2.1/src/var/getProto.js"],"names":["define","Object","getPrototypeOf"],"mappings":";;AAAA;AACAA,OAAQ,YAAW;AAClB;;AAEA,QAAOC,OAAOC,cAAd;AACA,CAJD","file":"getProto.js","sourcesContent":["/* */ \ndefine( function() {\n\t\"use strict\";\n\n\treturn Object.getPrototypeOf;\n} );\n"]}
