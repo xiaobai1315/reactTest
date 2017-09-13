@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../jspm_packages/npm/react@15.6.1/lib/ReactComponentTreeDevtool.js"],"names":["module","exports","require"],"mappings":"AAAA;AACA;;AACAA,OAAOC,OAAP,GAAiBC,QAAQ,0BAAR,CAAjB","file":"ReactComponentTreeDevtool.js","sourcesContent":["/* */ \n'use strict';\nmodule.exports = require('./ReactComponentTreeHook');\n"]}

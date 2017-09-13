@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../jspm_packages/npm/readable-stream@2.3.3.js"],"names":["module","exports","require"],"mappings":";;AAAAA,OAAOC,OAAP,GAAiBC,QAAQ,uCAAR,CAAjB","file":"readable-stream@2.3.3.js","sourcesContent":["module.exports = require(\"npm:readable-stream@2.3.3/readable.js\");"]}

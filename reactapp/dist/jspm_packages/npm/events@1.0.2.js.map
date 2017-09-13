@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../jspm_packages/npm/events@1.0.2.js"],"names":["module","exports","require"],"mappings":";;AAAAA,OAAOC,OAAP,GAAiBC,QAAQ,4BAAR,CAAjB","file":"events@1.0.2.js","sourcesContent":["module.exports = require(\"npm:events@1.0.2/events.js\");"]}

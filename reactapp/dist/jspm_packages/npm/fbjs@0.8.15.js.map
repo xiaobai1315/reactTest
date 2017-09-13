@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../jspm_packages/npm/fbjs@0.8.15.js"],"names":["module","exports","require"],"mappings":";;AAAAA,OAAOC,OAAP,GAAiBC,QAAQ,0BAAR,CAAjB","file":"fbjs@0.8.15.js","sourcesContent":["module.exports = require(\"npm:fbjs@0.8.15/index.js\");"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../jspm_packages/npm/react@15.6.1/react.js"],"names":["module","exports","require"],"mappings":"AAAA;AACA;;AACAA,OAAOC,OAAP,GAAiBC,QAAQ,aAAR,CAAjB","file":"react.js","sourcesContent":["/* */ \n'use strict';\nmodule.exports = require('./lib/React');\n"]}

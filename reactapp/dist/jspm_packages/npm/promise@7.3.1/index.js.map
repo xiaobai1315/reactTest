@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../jspm_packages/npm/promise@7.3.1/index.js"],"names":["module","exports","require"],"mappings":"AAAA;AACA;;AACAA,OAAOC,OAAP,GAAiBC,QAAQ,aAAR,CAAjB","file":"index.js","sourcesContent":["/* */ \n'use strict';\nmodule.exports = require('./lib/index');\n"]}

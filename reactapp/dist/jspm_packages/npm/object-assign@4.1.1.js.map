@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../jspm_packages/npm/object-assign@4.1.1.js"],"names":["module","exports","require"],"mappings":";;AAAAA,OAAOC,OAAP,GAAiBC,QAAQ,+BAAR,CAAjB","file":"object-assign@4.1.1.js","sourcesContent":["module.exports = require(\"npm:object-assign@4.1.1/index\");"]}

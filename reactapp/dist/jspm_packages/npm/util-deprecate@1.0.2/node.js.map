@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../jspm_packages/npm/util-deprecate@1.0.2/node.js"],"names":["module","exports","require","deprecate"],"mappings":";;AAAA;AACAA,OAAOC,OAAP,GAAiBC,QAAQ,MAAR,EAAgBC,SAAjC","file":"node.js","sourcesContent":["/* */ \nmodule.exports = require('util').deprecate;\n"]}

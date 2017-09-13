@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../jspm_packages/npm/node-fetch@1.7.3.js"],"names":["module","exports","require"],"mappings":";;AAAAA,OAAOC,OAAP,GAAiBC,QAAQ,+BAAR,CAAjB","file":"node-fetch@1.7.3.js","sourcesContent":["module.exports = require(\"npm:node-fetch@1.7.3/index.js\");"]}

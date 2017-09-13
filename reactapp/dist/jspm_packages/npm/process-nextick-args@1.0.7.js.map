@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../jspm_packages/npm/process-nextick-args@1.0.7.js"],"names":["module","exports","require"],"mappings":";;AAAAA,OAAOC,OAAP,GAAiBC,QAAQ,yCAAR,CAAjB","file":"process-nextick-args@1.0.7.js","sourcesContent":["module.exports = require(\"npm:process-nextick-args@1.0.7/index.js\");"]}

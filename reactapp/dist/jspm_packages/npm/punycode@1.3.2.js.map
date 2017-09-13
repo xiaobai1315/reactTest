@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../jspm_packages/npm/punycode@1.3.2.js"],"names":["module","exports","require"],"mappings":";;AAAAA,OAAOC,OAAP,GAAiBC,QAAQ,gCAAR,CAAjB","file":"punycode@1.3.2.js","sourcesContent":["module.exports = require(\"npm:punycode@1.3.2/punycode.js\");"]}

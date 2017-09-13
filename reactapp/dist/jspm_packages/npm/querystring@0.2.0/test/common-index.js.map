@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../jspm_packages/npm/querystring@0.2.0/test/common-index.js"],"names":["require","run"],"mappings":"AAAA;AACA;;AACAA,QAAQ,MAAR,EAAgBC,GAAhB,CAAoBD,QAAQ,SAAR,CAApB","file":"common-index.js","sourcesContent":["/* */ \n\"use strict\";\nrequire('test').run(require('./index'));\n"]}

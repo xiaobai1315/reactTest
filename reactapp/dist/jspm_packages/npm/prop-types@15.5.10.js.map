@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../jspm_packages/npm/prop-types@15.5.10.js"],"names":["module","exports","require"],"mappings":";;AAAAA,OAAOC,OAAP,GAAiBC,QAAQ,iCAAR,CAAjB","file":"prop-types@15.5.10.js","sourcesContent":["module.exports = require(\"npm:prop-types@15.5.10/index.js\");"]}

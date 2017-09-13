@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../jspm_packages/npm/encoding@0.1.12.js"],"names":["module","exports","require"],"mappings":";;AAAAA,OAAOC,OAAP,GAAiBC,QAAQ,qCAAR,CAAjB","file":"encoding@0.1.12.js","sourcesContent":["module.exports = require(\"npm:encoding@0.1.12/lib/encoding.js\");"]}

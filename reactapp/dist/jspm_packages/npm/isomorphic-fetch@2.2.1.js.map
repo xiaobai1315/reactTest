@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../jspm_packages/npm/isomorphic-fetch@2.2.1.js"],"names":["module","exports","require"],"mappings":";;AAAAA,OAAOC,OAAP,GAAiBC,QAAQ,oDAAR,CAAjB","file":"isomorphic-fetch@2.2.1.js","sourcesContent":["module.exports = require(\"npm:isomorphic-fetch@2.2.1/fetch-npm-browserify.js\");"]}

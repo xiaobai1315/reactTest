@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/app/main.js"],"names":[],"mappings":";;AAAA;;;;AACA;;;;AACA","file":"main.js","sourcesContent":["import React from 'react';\nimport ReactDom from 'react-dom';\nimport {Router, Route, Link} from 'react-router';\n\n"]}

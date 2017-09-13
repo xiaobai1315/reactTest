@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../jspm_packages/npm/querystring@0.2.0/test/tap-index.js"],"names":["require"],"mappings":"AAAA;AACA;;AACAA,QAAQ,QAAR,EAAkBA,QAAQ,SAAR,CAAlB","file":"tap-index.js","sourcesContent":["/* */ \n\"use strict\";\nrequire('retape')(require('./index'));\n"]}

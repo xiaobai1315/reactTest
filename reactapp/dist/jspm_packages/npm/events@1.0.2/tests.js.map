@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../jspm_packages/npm/events@1.0.2/tests.js"],"names":["module","exports","require"],"mappings":";;AAAA;AACAA,OAAOC,OAAP,GAAiBC,QAAQ,eAAR,CAAjB","file":"tests.js","sourcesContent":["/* */ \nmodule.exports = require('./tests/index');\n"]}

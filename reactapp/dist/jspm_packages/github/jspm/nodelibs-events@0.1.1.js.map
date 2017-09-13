@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../jspm_packages/github/jspm/nodelibs-events@0.1.1.js"],"names":["module","exports","require"],"mappings":";;AAAAA,OAAOC,OAAP,GAAiBC,QAAQ,yCAAR,CAAjB","file":"nodelibs-events@0.1.1.js","sourcesContent":["module.exports = require(\"github:jspm/nodelibs-events@0.1.1/index\");"]}

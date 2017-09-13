@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../jspm_packages/npm/ua-parser-js@0.7.14.js"],"names":["module","exports","require"],"mappings":";;AAAAA,OAAOC,OAAP,GAAiBC,QAAQ,0CAAR,CAAjB","file":"ua-parser-js@0.7.14.js","sourcesContent":["module.exports = require(\"npm:ua-parser-js@0.7.14/src/ua-parser.js\");"]}

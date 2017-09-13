@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../jspm_packages/npm/react-router@4.2.0/es.js"],"names":["module","exports","require"],"mappings":";;AAAA;AACAA,OAAOC,OAAP,GAAiBC,QAAQ,YAAR,CAAjB","file":"es.js","sourcesContent":["/* */ \nmodule.exports = require('./es/index');\n"]}

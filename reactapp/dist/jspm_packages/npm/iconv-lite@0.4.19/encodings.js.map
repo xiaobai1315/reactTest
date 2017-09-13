@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../jspm_packages/npm/iconv-lite@0.4.19/encodings.js"],"names":["module","exports","require"],"mappings":";;AAAA;AACAA,OAAOC,OAAP,GAAiBC,QAAQ,mBAAR,CAAjB","file":"encodings.js","sourcesContent":["/* */ \nmodule.exports = require('./encodings/index');\n"]}

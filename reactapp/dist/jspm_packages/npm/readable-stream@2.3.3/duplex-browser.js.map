@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../jspm_packages/npm/readable-stream@2.3.3/duplex-browser.js"],"names":["module","exports","require"],"mappings":";;AAAA;AACAA,OAAOC,OAAP,GAAiBC,QAAQ,sBAAR,CAAjB","file":"duplex-browser.js","sourcesContent":["/* */ \nmodule.exports = require('./lib/_stream_duplex');\n"]}

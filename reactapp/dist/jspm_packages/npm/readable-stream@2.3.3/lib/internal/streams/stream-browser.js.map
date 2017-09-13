@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../../../jspm_packages/npm/readable-stream@2.3.3/lib/internal/streams/stream-browser.js"],"names":["module","exports","require","EventEmitter"],"mappings":";;AAAA;AACAA,OAAOC,OAAP,GAAiBC,QAAQ,QAAR,EAAkBC,YAAnC","file":"stream-browser.js","sourcesContent":["/* */ \nmodule.exports = require('events').EventEmitter;\n"]}

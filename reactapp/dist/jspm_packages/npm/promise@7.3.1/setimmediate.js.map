@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../jspm_packages/npm/promise@7.3.1/setimmediate.js"],"names":["module","exports","require"],"mappings":";;AAAA;AACAA,OAAOC,OAAP,GAAiBC,QAAQ,sBAAR,CAAjB","file":"setimmediate.js","sourcesContent":["/* */ \nmodule.exports = require('./setimmediate/index');\n"]}

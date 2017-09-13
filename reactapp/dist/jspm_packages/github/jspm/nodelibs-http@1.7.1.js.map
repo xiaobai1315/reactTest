@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../jspm_packages/github/jspm/nodelibs-http@1.7.1.js"],"names":["module","exports","require"],"mappings":";;AAAAA,OAAOC,OAAP,GAAiBC,QAAQ,0CAAR,CAAjB","file":"nodelibs-http@1.7.1.js","sourcesContent":["module.exports = require(\"github:jspm/nodelibs-http@1.7.1/index.js\");"]}
